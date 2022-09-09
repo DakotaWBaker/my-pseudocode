@@ -1,5 +1,5 @@
 # Washing your Hands
-## INIT Objects/Var
+## INIT Objects/Var/assumptions
 
 1. **faucet**
     * automaticSensorFaucet
